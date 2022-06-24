@@ -2,8 +2,7 @@
 
 
 ![Group 2170](https://user-images.githubusercontent.com/87024861/175659095-0f77bfeb-98cb-4aee-bf91-9c569b3bd7a5.png)	
-![Group 2172 (2)](https://user-images.githubusercontent.com/87024861/175698135-7d5b7b78-fae5-4875-a336-f4976749f12d.png)
-
+![Group 2173](https://user-images.githubusercontent.com/87024861/175698570-791cff00-ef13-4172-b9a5-841931eee331.png)
 
 ![Group 2169 (1)](https://user-images.githubusercontent.com/87024861/175617928-905485e2-4737-43e7-8df4-66e26d5083ae.png)
 
