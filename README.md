@@ -6,8 +6,7 @@
 
 ![Group 2169 (1)](https://user-images.githubusercontent.com/87024861/175617928-905485e2-4737-43e7-8df4-66e26d5083ae.png)
 
-![Group 2167 (1)](https://user-images.githubusercontent.com/87024861/175615438-3930f15b-68fd-4e96-a61b-463779e9a70b.png)
-
+![Group 2172 (3)](https://user-images.githubusercontent.com/87024861/175698842-4c9ffa1c-7717-43aa-bc08-33cf3d4a7793.png)
 
 ![Line 3 (2)](https://user-images.githubusercontent.com/87024861/175609380-95b0ea85-f995-4f04-9b4b-0f28cfd9d632.png)
 
