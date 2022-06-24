@@ -1,0 +1,7 @@
+package employee;
+
+public class Coach extends EmployeeBase {
+    public Coach(String name, int age, double salary, boolean accessToBudget) {
+        super(name, age, salary, accessToBudget);
+    }
+}
