@@ -1,12 +1,14 @@
-package managers;
+package employee;
 
-public class Employee extends PersonAbstract {
+import abstractClass.PersonAbstract;
+
+public class EmployeeBase extends PersonAbstract {
     private double salary;
     private boolean accessToBudget;
 
-    public Employee(String name, int age, double salary, boolean accessToBudget) {
-        super.name = name;
-        super.age = age;
+    public EmployeeBase(String name, int age, double salary, boolean accessToBudget) {
+        super.setName(name);
+        super.setAge(age);
         this.salary = salary;
         this.accessToBudget = accessToBudget;
     }
