@@ -1,4 +1,4 @@
-package buildings;
+package building;
 
 import abstractClass.BuildingAbstract;
 
@@ -7,6 +7,7 @@ public class ClubBase extends BuildingAbstract {
     private double openingTime;
     private double closingTime;
     private int numberOfRooms;
+    private  boolean isOpen;
 
     public ClubBase(String name, double square, int capacity, double rent, double openingTime, double closingTime, int numberOfRooms) {
         super(name, square, capacity);
@@ -47,5 +48,7 @@ public class ClubBase extends BuildingAbstract {
     public void setNumberOfRooms(int numberOfRooms) {
         this.numberOfRooms = numberOfRooms;
     }
+
+
 }
 
