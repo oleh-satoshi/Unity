@@ -13,6 +13,13 @@ public class EmployeeBase extends PersonAbstract {
         this.accessToBudget = accessToBudget;
     }
 
+    public boolean closingDoor() {
+        return true;
+    }
+    public boolean openingDoor() {
+        return true;
+    }
+
     public double getSalary() {
         return salary;
     }
@@ -28,5 +35,7 @@ public class EmployeeBase extends PersonAbstract {
     public void setAccesToBudget(boolean accesToBudget) {
         this.accessToBudget = accesToBudget;
     }
+
+
 
 }
