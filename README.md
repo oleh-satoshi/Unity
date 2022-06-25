@@ -6,10 +6,7 @@
 
 ![Group 2169 (1)](https://user-images.githubusercontent.com/87024861/175617928-905485e2-4737-43e7-8df4-66e26d5083ae.png)
 
-![Group 2172 (3)](https://user-images.githubusercontent.com/87024861/175698842-4c9ffa1c-7717-43aa-bc08-33cf3d4a7793.png)
-
-![Line 3 (2)](https://user-images.githubusercontent.com/87024861/175609380-95b0ea85-f995-4f04-9b4b-0f28cfd9d632.png)
-
+![Group 2250](https://user-images.githubusercontent.com/87024861/175780975-9af3cf4c-35aa-45c8-8b45-e6381f77e246.png)![Line 3 (2)](https://user-images.githubusercontent.com/87024861/175609380-95b0ea85-f995-4f04-9b4b-0f28cfd9d632.png)
 
 
 ![Group 2172 (1)](https://user-images.githubusercontent.com/87024861/175668146-69c04ff5-f070-44b6-996b-e877f1ec7894.png)
